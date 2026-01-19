@@ -72,14 +72,23 @@ Steps:
 
 **3.** Evaluate accuracy on test data
 
-**Output Example:**
+**Output:**
 
 
 
 ```bash
-  Test Accuracy: ~0.80 – 0.90
+  Test Accuracy: 0.80
 ```
 (Accuracy may vary slightly due to randomness)
+#
+**Graph Output:**
+
+![App Screenshot](https://image2url.com/r2/default/images/1768847787124-94b4134a-76db-4f0a-9dd7-3816cbb36612.png)
+
+**Features:** ['sepal length (cm)', 'sepal width (cm)']
+
+**Classes:** ['setosa' 'versicolor' 'virginica']
+
 #
 ## 🧠 **Learning Concept Reminder**
 Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;Example
