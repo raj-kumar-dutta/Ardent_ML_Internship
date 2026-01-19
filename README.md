@@ -83,7 +83,7 @@ Steps:
 #
 **Graph Output:**
 
-![image]("C:\Users\rajku\Downloads\download.png")
+![image](https://github.com/rajkumar81720/Ardent_ML_Internship/blob/main/download.png?raw=true)
 
 **Features:** ['sepal length (cm)', 'sepal width (cm)']
 
