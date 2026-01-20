@@ -103,7 +103,7 @@ The model is evaluated using:
 
 A heatmap is generated using Matplotlib to visually interpret:
 
-![image](https://github.comm/rajkumar81720/Ardent_ML_Internship/blob/main/download.png?raw=true)
+![image](https://github.com/rajkumar81720/Ardent_ML_Internship/blob/08f6e920b957f2c12201df1cad660a25034f2e1a/Project-2/download%20(1).png)
 
 **•** True Positives
 
