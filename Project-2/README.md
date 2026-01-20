@@ -80,6 +80,7 @@ A Logistic Regression model is trained on the scaled training data.
 #
 ### 7️⃣ Prediction & Accuracy
 Predictions are made on test data and accuracy is calculated:
+
 ![image](https://github.com/rajkumar81720/Ardent_ML_Internship/blob/e84c2c836ba0bed39ae1b9c17d814ee03a8b73a0/Project-2/Screenshot%202026-01-21%20000159.png)
 #
 ### 8️⃣ Model Evaluation
